@@ -1,4 +1,4 @@
-# NDR-master
+# DNR-master
 The PyTorch implementation of DNR. If you use our code please cite "Consolidation of Structure of High Noise Data by a New Noise Index and Reinforcement Learning".
 
 Method is tested on Circles dataset which is constructed by From_circles.py. 
